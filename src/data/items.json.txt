@@ -1,4 +1,5 @@
 {{ doNotModifyHeader }}
+#include "item.h"
 ## for item in items
 ## if item.pocket == "POCKET_TM_CASE"
 extern const u8 gMoveDescription_{{ item.moveId }}[];
