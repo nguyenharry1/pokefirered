@@ -106,6 +106,9 @@ static const struct ItemSlot gNewGamePCItems[] = {
     { ITEM_THUNDER_STONE, 6 },
     { ITEM_STAR_PIECE, 7 },
     { ITEM_THICK_CLUB, 1 },
+    { ITEM_REPEL, 1 },
+    { ITEM_SUPER_REPEL, 1 },
+    { ITEM_MAX_REPEL, 1 },
     { ITEM_UP_GRADE, 1 },
     { ITEM_METAL_COAT, 1 },
     { ITEM_KINGS_ROCK, 1 }, */
