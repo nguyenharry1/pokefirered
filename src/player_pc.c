@@ -100,12 +100,15 @@ static const struct ItemSlot gNewGamePCItems[] = {
     { ITEM_POTION, 1 },
     /* DEBUG: Sort Bag
     { ITEM_FULL_HEAL, 3 },
-    { ITEM_RARE_CANDY, 999 }
+    { ITEM_RARE_CANDY, 999 },
     { ITEM_PP_MAX, 2 },
     { ITEM_PEARL, 4 },
     { ITEM_THUNDER_STONE, 6 },
     { ITEM_STAR_PIECE, 7 },
-    { ITEM_THICK_CLUB, 1 }, */
+    { ITEM_THICK_CLUB, 1 },
+    { ITEM_UP_GRADE, 1 },
+    { ITEM_METAL_COAT, 1 },
+    { ITEM_KINGS_ROCK, 1 }, */
     { ITEM_NONE,   0 } 
 };
 
